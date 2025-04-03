@@ -8,3 +8,5 @@ Este reto consiste en desarrollar una aplicación que lea un archivo CSV con tra
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/renzotf/retotecnico-cobol
+
+![Captura de pantalla 2025-04-02 222404](https://github.com/user-attachments/assets/811e899d-ed39-48d4-bfc9-7e94a041f295)
